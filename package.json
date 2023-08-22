@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jhlee111/velo-wmap#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@jhlee111:registry": "https://npm.pkg.github.com"
   }
 }
