@@ -1,5 +1,5 @@
 {
-  "name": "velo-wmap",
+  "name": "@jhlee111/velo-wmap",
   "version": "0.1.0",
   "description": "tiny velo $w auto-complete helper",
   "main": "index.js",
@@ -24,5 +24,4 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
-  
 }
